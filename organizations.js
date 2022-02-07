@@ -70,7 +70,7 @@ const orgs = [
     "Donation Link": "https://mercymultiplied.com/donate",
   },
   {
-    "Organization": "sisters for life",
+    "Organization": "sisters of life",
     "Homepage Link": "https://sistersoflife.org/",
     "Donation Link": "https://sistersoflife.org/donate/",
   },
@@ -143,6 +143,41 @@ const orgs = [
     "Organization": "priests for life",
     "Homepage Link": "https://www.priestsforlife.org/",
     "Donation Link": "https://www.priestsforlife.org/donate/",
+  },
+  {
+    "Organization": "democrats for life of america",
+    "Homepage Link": "https://www.democratsforlife.org/",
+    "Donation Link": "https://support.democratsforlife.org/donate",
+  },
+  {
+    "Organization": "pro-life alliance of gays and lesbians",
+    "Homepage Link": "https://www.plagal.org/",
+    "Donation Link": "https://www.networkforgood.org/donation/ExpressDonation.aspx?ORGID2=04-3274668&vlrStratCode=L4OcY5oTJtFLvM46rCZzBvHPCCx1wf5dBLkxh5Jpar5OBk%2bsvLbjG1vQGefDRZuE",
+  },
+  {
+    "Organization": "american solidarity party",
+    "Homepage Link": "https://www.solidarity-party.org/",
+    "Donation Link": "https://www.solidarity-party.org/support",
+  },
+  {
+    "Organization": "republican party",
+    "Homepage Link": "https://www.gop.com/",
+    "Donation Link": "https://secure.winred.com/rnc/contribute",
+  },
+  {
+    "Organization": "40 days for life",
+    "Homepage Link": "https://www.40daysforlife.com/en/",
+    "Donation Link": "https://www.40daysforlife.com/en/donate.aspx",
+  },
+  {
+    "Organization": "national institute of family and life advocates",
+    "Homepage Link": "https://nifla.org/",
+    "Donation Link": "https://nifla.org/donate-now/",
+  },
+  {
+    "Organization": "pro-life action league",
+    "Homepage Link": "https://prolifeaction.org/",
+    "Donation Link": "https://prolifeaction.org/donate/",
   },
   /* Insert Charity Above This Line */
 ];
