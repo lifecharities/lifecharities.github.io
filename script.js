@@ -13,5 +13,5 @@ $(document).ready(function () {
       </div>
     </div>`;
     $("#charities").append(item)
-  })
-})
+  });;
+});
