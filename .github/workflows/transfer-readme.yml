@@ -2,7 +2,8 @@ name: Transfer README
 on: 
   push:
     branches: [ main ]
-    paths: [ "README.md" ]
+    paths: [ "README.md" ] 
+  workflow_dispatch:
 
 jobs:
   transfer-readme:
