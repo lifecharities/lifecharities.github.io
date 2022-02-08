@@ -179,5 +179,35 @@ const orgs = [
     "Homepage Link": "https://prolifeaction.org/",
     "Donation Link": "https://prolifeaction.org/donate/",
   },
+  {
+    "Organization": "united families international",
+    "Homepage Link": "https://www.unitedfamilies.org/",
+    "Donation Link": "https://www.unitedfamilies.org/donate/",
+  },
+  {
+    "Organization": "national pro-life religious council",
+    "Homepage Link": "https://www.nprcouncil.org/",
+    "Donation Link": "http://www.nprcouncil.org/join.htm",
+  },
+  {
+    "Organization": "justice house of prayer",
+    "Homepage Link": "https://www.jhopdc.com/",
+    "Donation Link": "https://www.jhopdc.com/donate",
+  },
+  {
+    "Organization": "focus on the family",
+    "Homepage Link": "https://www.focusonthefamily.com/",
+    "Donation Link": "https://www.focusonthefamily.com/donate",
+  },
+  {
+    "Organization": "texas alliance for life",
+    "Homepage Link": "https://www.texasallianceforlife.org/",
+    "Donation Link": "https://www.texasallianceforlife.org/donate/",
+  },
+  {
+    "Organization": "georgia right to life",
+    "Homepage Link": "https://grtl.org/",
+    "Donation Link": "http://www.grtl.org/donate/",
+  },
   /* Insert Charity Above This Line */
 ];
