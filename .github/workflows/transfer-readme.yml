@@ -15,7 +15,7 @@ jobs:
         uses: GuillaumeFalourd/copy-push-files@v1
         with:
           source_files: README.md
-          remote_repository: https://github.com/lifecharities/.github
+          remote_repository: "https://github.com/lifecharities/.github"
           commit_message: Update README
           target_dir: profile
           access_token: ${{ secrets.ACCESS_TOKEN }}
