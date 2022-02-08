@@ -19,4 +19,5 @@ jobs:
           remote_repository: https://github.com/lifecharities/.github
           commit_message: Update README
           target_dir: profile
+          target_branch: main
           access_token: ${{ secrets.ACCESS_TOKEN }}
