@@ -130,7 +130,7 @@ const orgs = [
     "Donation Link": "https://www.familyfoundation.org/contribute",
   },
   {
-    "Organization": "secular pro life",
+    "Organization": "secular pro-life",
     "Homepage Link": "https://secularprolife.org/",
     "Donation Link": "https://secularprolife.org/donate/",
   },
