@@ -5,7 +5,7 @@ on:
     paths: [ "README.md" ]
 
 jobs:
-  build-and-deploy:
+  transfer-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
