@@ -12,5 +12,3 @@ Please read [CONTRIBUTING.md](https://github.com/lifecharities/lifecharities.git
 
 ## License
 **lifecharities.github.io** is licensed under the [MIT License](https://github.com/lifecharities/lifecharities.github.io/blob/main/LICENSE).
-
-##### Test 2
