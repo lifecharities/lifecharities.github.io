@@ -1,0 +1,25 @@
+{
+  "name": "lifecharities.github.io",
+  "version": "1.0.0",
+  "description": "A website that displays a growing list of pro-life charities and maternal organizations.",
+  "main": "tests/site_online.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/site_online.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willuhm-js/lifecharities.github.io.git"
+  },
+  "author": "lifecharities",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willuhm-js/lifecharities.github.io/issues"
+  },
+  "homepage": "https://github.com/willuhm-js/lifecharities.github.io#readme",
+  "dependencies": {
+    "centra": "^2.5.0"
+  }
+}
