@@ -214,5 +214,10 @@ const orgs = [
     "Homepage Link": "https://www.frc.org/",
     "Donation Link": "https://www.frc.org/donate",
   },
+  {
+    "Organization": "feminists for life",
+    "Homepage Link": "https://www.feministsforlife.org/",
+    "Donation Link": "https://www.feministsforlife.org/support/",
+  },
   /* Insert Charity Above This Line */
 ];
