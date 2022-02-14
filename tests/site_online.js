@@ -1,3 +1,5 @@
+console.log("Running tests...");
+
 const c = require("centra");
 const path = require("path");
 const fs = require("fs");
@@ -13,3 +15,5 @@ const lastOrg = orgs[orgs.length - 1];
   await c(lastOrg["Homepage Link"]).send();
   await c(lastOrg["Donation Link"]).send();
 })();
+
+console.log("Test success!");
