@@ -8,7 +8,7 @@
 A website that displays a growing list of pro-life charities and maternal organizations.
 
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/lifecharities/lifecharities.github.io/blob/main/CONTRIBUTING.md) for insight on how to contribute to this project.
+Please read [CONTRIBUTING.md](https://github.com/lifecharities/lifecharities.github.io/blob/main/CONTRIBUTING.md) for insight on how to contribute to this project. You may also submit a charity using [this survey](https://forms.gle/ssKMNdYLcqGGHf5W7).
 
 ## License
 **lifecharities.github.io** is licensed under the [MIT License](https://github.com/lifecharities/lifecharities.github.io/blob/main/LICENSE).
