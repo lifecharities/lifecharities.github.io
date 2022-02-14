@@ -6,7 +6,7 @@
 - [ ] All charities must be in lowercase.
 - [ ] Please only submit one charity at a time.
 
-## I am fixing a bug
+## I am making a different contribution
 **Related Issue**
 > Insert link to issue here
 
