@@ -219,5 +219,10 @@ const orgs = [
     "Homepage Link": "https://www.feministsforlife.org/",
     "Donation Link": "https://www.feministsforlife.org/support/",
   },
+  {
+    "Organization": "silent no more",
+    "Homepage Link": "https://www.silentnomoreawareness.org/",
+    "Donation Link": "https://www.silentnomoreawareness.org/join/",
+  },
   /* Insert Charity Above This Line */
 ];
