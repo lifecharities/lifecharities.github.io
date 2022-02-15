@@ -224,5 +224,10 @@ const orgs = [
     "Homepage Link": "https://www.silentnomoreawareness.org/",
     "Donation Link": "https://www.silentnomoreawareness.org/join/",
   },
+  {
+    "Organization": "survivors of the abortion holocaust",
+    "Homepage Link": "https://www.survivors.la/",
+    "Donation Link": "https://www.survivors.la/donate",
+  },
   /* Insert Charity Above This Line */
 ];
