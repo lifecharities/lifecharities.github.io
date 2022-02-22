@@ -1,18 +1,18 @@
 # Contributing to Life Charities
-There are many charities and organizations that support the fight for life. Your contribution can help grow this list.
+There are many charities that support the fight for life. Your contribution can help grow this list.
 
 ## Formatting
 Current JSON list format:
 ```json
 {
-  "Organization": "Name of the organization.",
-  "Homepage Link": "Link to the organization's home page.",
-  "Donation Link": "Link to the organization's donation page.",
-  "Country": "Country name"
+  "Charity": "Name of the charity.",
+  "Homepage Link": "Link to the charity's home page.",
+  "Donation Link": "Link to the charity's donation page.",
+  "Country": "Name of the country your charity is based in."
 }
 ```
 
-All charities are listed in JSON format under [organizations.js](https://github.com/lifecharities/lifecharities.github.io/blob/main/organizations.js)
+All charities are listed in JSON format under [charities.js](https://github.com/lifecharities/lifecharities.github.io/blob/main/charities.js)
 
 ## Guidelines
 * The maintainer(s) may approve or deny a request at their own discretion.
