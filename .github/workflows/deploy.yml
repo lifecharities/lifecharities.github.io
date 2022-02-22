@@ -14,7 +14,7 @@ jobs:
         run: npm install && npm run test
 
       - name: Build 🔧
-        run: mv organizations.js src/organizations.js
+        run: mv charities.js src/charities.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.2.3
