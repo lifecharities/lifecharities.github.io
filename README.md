@@ -5,7 +5,7 @@
 ![GitHub](https://img.shields.io/github/license/lifecharities/lifecharities.github.io?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/lifecharities/lifecharities.github.io?style=for-the-badge)
 
-A website that displays a growing list of pro-life charities and maternal organizations.
+A website that displays a growing list of pro-life charities.
 
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/lifecharities/lifecharities.github.io/blob/main/CONTRIBUTING.md) for insight on how to contribute to this project. You may also submit a charity using [this survey](https://forms.gle/ssKMNdYLcqGGHf5W7).
