@@ -5,9 +5,10 @@ There are many charities and organizations that support the fight for life. Your
 Current JSON list format:
 ```json
 {
-  "Organization": "Name of the organization."
-  "Homepage Link": "Link to the organization's home page."
-  "Donation Link": "Link to the organization's donation page."
+  "Organization": "Name of the organization.",
+  "Homepage Link": "Link to the organization's home page.",
+  "Donation Link": "Link to the organization's donation page.",
+  "Country": "Country name"
 }
 ```
 
@@ -15,9 +16,9 @@ All charities are listed in JSON format under [organizations.js](https://github.
 
 ## Guidelines
 * The maintainer(s) may approve or deny a request at their own discretion.
-* All charities must be a pro-life or maternal organization.
+* All charities must be focused on the pro-life cause.
 * All links must be in their simpliest form; keep the path as short as possible.
-* All charities must be in lowercase.
+* All charities and countries must be in lowercase.
 * Please only submit one charity at a time.
 
 ## Other Contributions
