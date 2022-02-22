@@ -8,8 +8,8 @@ const fs = require("fs");
 let tmpCode = "module.exports = " + fs.readFileSync(path.resolve(__dirname, "../charities.js"), "utf-8").slice(13);
 fs.writeFileSync(path.join(__dirname, "tmp.js"), tmpCode);
 
-const chars = require("./tmp.js");
-const lastChar = chars[chars.length - 1];
+const charities = require("./tmp.js");
+const lastChar = charities[charities.length - 1];
 
 (async () => {
   await c(lastChar["Homepage Link"]).send();

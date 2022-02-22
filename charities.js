@@ -1,4 +1,4 @@
-const orgs = [
+const charities = [
   {
     "Charity": "live action",
     "Homepage Link": "https://liveaction.org",
