@@ -277,7 +277,7 @@ const charities = [
   },
   {
     "Charity": "marche pour la vie",
-    "Homepage Link": "https://enmarchepourlavie.fr/faire-un-don/",
+    "Homepage Link": "https://enmarchepourlavie.fr/",
     "Donation Link": "https://enmarchepourlavie.fr/faire-un-don/",
     "Country": "france"
   },
