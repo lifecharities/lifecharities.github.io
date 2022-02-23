@@ -274,5 +274,17 @@ const charities = [
     "Homepage Link": "https://www.survivors.la/",
     "Donation Link": "https://www.survivors.la/donate",
     "Country": "usa"
+  },
+  {
+    "Charity": "marche pour la vie",
+    "Homepage Link": "https://enmarchepourlavie.fr/faire-un-don/",
+    "Donation Link": "https://enmarchepourlavie.fr/faire-un-don/",
+    "Country": "france"
+  },
+  {
+    "Charity": "marsz dla zycia i rodziny",
+    "Homepage Link": "https://marsz.org/",
+    "Donation Link": "https://marsz.org/wspieram/",
+    "Country": "poland"
   }
 ]
