@@ -8,11 +8,11 @@ Current JSON list format:
   "Charity": "Name of the charity.",
   "Homepage Link": "Link to the charity's home page.",
   "Donation Link": "Link to the charity's donation page.",
-  "Country": "Name of the country your charity is based in."
+  "Country": "Name of the country your charity is based in (or 'transnational'.)"
 }
 ```
 
-All charities are listed in JSON format under [charities.js](https://github.com/lifecharities/lifecharities.github.io/blob/main/charities.js)
+All charities are listed in JSON format under [charities.js](https://github.com/lifecharities/lifecharities.github.io/blob/main/charities.js).
 
 ## Guidelines
 * The maintainer(s) may approve or deny a request at their own discretion.
