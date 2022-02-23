@@ -286,5 +286,11 @@ const charities = [
     "Homepage Link": "https://marsz.org/",
     "Donation Link": "https://marsz.org/wspieram/",
     "Country": "poland"
+  },
+  {
+    "Charity": "prolife europe",
+    "Homepage Link": "https://prolifeeurope.org/",
+    "Donation Link": "https://prolifeeurope.org/donate/",
+    "Country": "transnational"
   }
 ]
