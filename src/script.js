@@ -1,4 +1,4 @@
-a$(document).ready(function () {
+$(document).ready(function () {
   function compareStrings(a, b) { return (a < b) ? -1 : (a > b) ? 1 : 0; }
 
   charities.sort(function (a, b) {
