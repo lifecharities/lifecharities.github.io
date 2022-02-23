@@ -292,5 +292,11 @@ const charities = [
     "Homepage Link": "https://prolifeeurope.org/",
     "Donation Link": "https://prolifeeurope.org/donate/",
     "Country": "transnational"
+  },
+  {
+    "Charity": "european federation for life and human dignity",
+    "Homepage Link": "https://oneofus.eu/",
+    "Donation Link": "https://oneofus.eu/donate/",
+    "Country": "transnational"
   }
 ]
