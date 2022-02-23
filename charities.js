@@ -290,7 +290,7 @@ const charities = [
   {
     "Charity": "prolife europe",
     "Homepage Link": "https://prolifeeurope.org/",
-    "Donation Link": "https://prolifeeurope.org/,
-    "Country": "transnational",
+    "Donation Link": "https://prolifeeurope.org/donate/",
+    "Country": "transnational"
   }
 ]
