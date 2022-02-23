@@ -1,7 +1,7 @@
 {
   "name": "lifecharities.github.io",
   "version": "1.0.0",
-  "description": "A website that displays a growing list of pro-life charities and maternal organizations.",
+  "description": "A website that displays a growing list of pro-life charities.",
   "main": "tests/site_online.js",
   "directories": {
     "test": "tests"
