@@ -8,7 +8,7 @@ Current JSON list format:
   "Charity": "Name of the charity.",
   "Homepage Link": "Link to the charity's home page.",
   "Donation Link": "Link to the charity's donation page.",
-  "Country": "Name of the country your charity is based in (or 'transnational')."
+  "Continent": "Name of the continent your charity is based in."
 }
 ```
 
@@ -20,6 +20,12 @@ All charities are listed in JSON format under [charities.js](https://github.com/
 * All links must be in their simpliest form; keep the path as short as possible.
 * All data must be in lowercase.
 * Please only submit one charity at a time.
+* All continents must be one of the following:
+  * Europe
+  * Oceania
+  * Americas
+  * Asia
+  * Africa
 
 ## Other Contributions
 Contributions outside the list of charities, such as code contributions, are also appreciated.
