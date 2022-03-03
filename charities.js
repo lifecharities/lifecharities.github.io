@@ -298,5 +298,11 @@ const charities = [
     "Homepage Link": "https://oneofus.eu/",
     "Donation Link": "https://oneofus.eu/donate/",
     "Continent": "europe"
+  },
+  {
+    "Charity": "right to life new zealand",
+    "Homepage Link": "https://righttolife.org.nz",
+    "Donation Link": "https://righttolife.org.nz/donate/",
+    "Continent": "oceania"
   }
 ]
