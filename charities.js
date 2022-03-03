@@ -36,7 +36,7 @@ const charities = [
     "Continent": "americas"
   },
   {
-    "Charity": "samericasn b. anthony list",
+    "Charity": "susan b. anthony list",
     "Homepage Link": "https://www.sba-list.org/",
     "Donation Link": "https://secure.anedot.com/sba/donate",
     "Continent": "americas"
