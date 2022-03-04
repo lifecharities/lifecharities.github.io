@@ -17,7 +17,7 @@ All charities are listed in JSON format under [charities.js](https://github.com/
 ## Guidelines
 * The maintainer(s) may approve or deny a request at their own discretion.
 * All charities must be focused on the pro-life cause.
-* All links must be in their simpliest form; keep the path as short as possible.
+* All links must be in their simplest form; keep the path as short as possible.
 * All data must be in lowercase.
 * Please only submit one charity at a time.
 * All continents must be one of the following:
