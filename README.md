@@ -1,8 +1,8 @@
 # Life Charities
-![GitHub deployments](https://img.shields.io/github/deployments/lifecharities/lifecharities.github.io/github-pages?style=for-the-badge)
+![Instagram](https://img.shields.io/static/v1?message=@lifecharities&color=C13584&label=Instagram&style=for-the-badge)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/lifecharities/lifecharities.github.io?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/lifecharities/lifecharities?style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/lifecharities/lifecharities.github.io?style=for-the-badge)
+![GitHub deployments](https://img.shields.io/github/deployments/lifecharities/lifecharities.github.io/github-pages?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/lifecharities/lifecharities.github.io?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/lifecharities/lifecharities.github.io?style=for-the-badge)
 
 A website that displays a growing list of pro-life charities.
