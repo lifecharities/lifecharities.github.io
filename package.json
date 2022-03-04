@@ -2,12 +2,12 @@
   "name": "lifecharities.github.io",
   "version": "1.0.0",
   "description": "A website that displays a growing list of pro-life charities.",
-  "main": "tests/site_online.js",
+  "main": "tests/main.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
-    "test": "node tests/site_online.js"
+    "test": "node tests/main.js"
   },
   "repository": {
     "type": "git",
