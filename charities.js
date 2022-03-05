@@ -306,7 +306,7 @@ const charities = [
     "Continent": "oceania"
   },
   {
-    "Charity": "благотворительный фонд «радость жизни»"
+    "Charity": "благотворительный фонд «радость жизни»",
     "Homepage Link": "https://radostzhizni.ru/",
     "Donation Link": "https://radostzhizni.ru/donation/",
     "Continent": "europe"
