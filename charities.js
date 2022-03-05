@@ -304,5 +304,11 @@ const charities = [
     "Homepage Link": "https://righttolife.org.nz",
     "Donation Link": "https://righttolife.org.nz/donate/",
     "Continent": "oceania"
+  },
+  {
+    "Charity": "благотворительный фонд «радость жизни»",
+    "Homepage Link": "https://radostzhizni.ru/",
+    "Donation Link": "https://radostzhizni.ru/donation/",
+    "Continent": "europe"
   }
 ]
