@@ -310,5 +310,11 @@ const charities = [
     "Homepage Link": "https://radostzhizni.ru/",
     "Donation Link": "https://radostzhizni.ru/donation/",
     "Continent": "europe"
+  },
+  {
+    "Charity": "life runners",
+    "Homepage Link": "https://www.liferunners.org/",
+    "Donation Link": "https://www.liferunners.org/donate",
+    "Continent": "americas"
   }
 ]
