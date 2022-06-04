@@ -316,5 +316,23 @@ const charities = [
     "Homepage Link": "https://www.liferunners.org/",
     "Donation Link": "https://www.liferunners.org/donate",
     "Continent": "americas"
+  },
+  {
+    "Charity": "aontú",
+    "Homepage Link": "https://aontu.ie/",
+    "Donation Link": "https://aontu.ie/donate",
+    "Continent": "europe"
+  },
+  {
+    "Charity": "both lives matter",
+    "Homepage Link": "https://bothlivesmatter.org/",
+    "Donation Link": "https://bothlivesmatter.org/donate",
+    "Continent": "europe"
+  },
+  {
+    "Charity": "christian action research and education",
+    "Homepage Link": "https://care.org.uk/",
+    "Donation Link": "https://care.org.uk/donate",
+    "Continent": "europe"
   }
 ]
